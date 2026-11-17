@@ -4,11 +4,164 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.AsyncSaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.AsyncSaver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.AsyncSaver",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.Editor.MenuItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.Editor.MenuItems.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.Editor.MenuItems",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.Editor.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.Editor",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.ISavable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.ISavable.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.ISavable",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.SavableEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.SavableEntity.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.SavableEntity",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.SaveManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.SaveManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.SaveManager",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.SaveSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.SaveSystem.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.SaveSystem",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.Saver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.Saver.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.Saver",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.XIVSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.XIVSerializer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems.XIVSerializer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Packages.SaveSystems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Packages.SaveSystems.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "XIV.Packages.SaveSystems",
+      "Summary": null
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
         }
       },
       "version": ""

@@ -1,3 +1,476 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: XIV.Packages.SaveSystems
+  name: XIV.Packages.SaveSystems
+  href: api/XIV.Packages.SaveSystems.html
+  commentId: N:XIV.Packages.SaveSystems
+  fullName: XIV.Packages.SaveSystems
+  nameWithType: XIV.Packages.SaveSystems
+- uid: XIV.Packages.SaveSystems.AsyncSaver
+  name: AsyncSaver
+  href: api/XIV.Packages.SaveSystems.AsyncSaver.html
+  commentId: T:XIV.Packages.SaveSystems.AsyncSaver
+  fullName: XIV.Packages.SaveSystems.AsyncSaver
+  nameWithType: AsyncSaver
+- uid: XIV.Packages.SaveSystems.AsyncSaver.LoadAsync(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name: LoadAsync(string, string, SavableEntity[])
+  href: api/XIV.Packages.SaveSystems.AsyncSaver.html#XIV_Packages_SaveSystems_AsyncSaver_LoadAsync_System_String_System_String_XIV_Packages_SaveSystems_SavableEntity___
+  commentId: M:XIV.Packages.SaveSystems.AsyncSaver.LoadAsync(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name.vb: LoadAsync(String, String, SavableEntity())
+  fullName: XIV.Packages.SaveSystems.AsyncSaver.LoadAsync(string, string, XIV.Packages.SaveSystems.SavableEntity[])
+  fullName.vb: XIV.Packages.SaveSystems.AsyncSaver.LoadAsync(String, String, XIV.Packages.SaveSystems.SavableEntity())
+  nameWithType: AsyncSaver.LoadAsync(string, string, SavableEntity[])
+  nameWithType.vb: AsyncSaver.LoadAsync(String, String, SavableEntity())
+- uid: XIV.Packages.SaveSystems.AsyncSaver.LoadAsync*
+  name: LoadAsync
+  href: api/XIV.Packages.SaveSystems.AsyncSaver.html#XIV_Packages_SaveSystems_AsyncSaver_LoadAsync_
+  commentId: Overload:XIV.Packages.SaveSystems.AsyncSaver.LoadAsync
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.AsyncSaver.LoadAsync
+  nameWithType: AsyncSaver.LoadAsync
+- uid: XIV.Packages.SaveSystems.AsyncSaver.SaveAsync(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name: SaveAsync(string, string, SavableEntity[])
+  href: api/XIV.Packages.SaveSystems.AsyncSaver.html#XIV_Packages_SaveSystems_AsyncSaver_SaveAsync_System_String_System_String_XIV_Packages_SaveSystems_SavableEntity___
+  commentId: M:XIV.Packages.SaveSystems.AsyncSaver.SaveAsync(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name.vb: SaveAsync(String, String, SavableEntity())
+  fullName: XIV.Packages.SaveSystems.AsyncSaver.SaveAsync(string, string, XIV.Packages.SaveSystems.SavableEntity[])
+  fullName.vb: XIV.Packages.SaveSystems.AsyncSaver.SaveAsync(String, String, XIV.Packages.SaveSystems.SavableEntity())
+  nameWithType: AsyncSaver.SaveAsync(string, string, SavableEntity[])
+  nameWithType.vb: AsyncSaver.SaveAsync(String, String, SavableEntity())
+- uid: XIV.Packages.SaveSystems.AsyncSaver.SaveAsync*
+  name: SaveAsync
+  href: api/XIV.Packages.SaveSystems.AsyncSaver.html#XIV_Packages_SaveSystems_AsyncSaver_SaveAsync_
+  commentId: Overload:XIV.Packages.SaveSystems.AsyncSaver.SaveAsync
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.AsyncSaver.SaveAsync
+  nameWithType: AsyncSaver.SaveAsync
+- uid: XIV.Packages.SaveSystems.Editor
+  name: XIV.Packages.SaveSystems.Editor
+  href: api/XIV.Packages.SaveSystems.Editor.html
+  commentId: N:XIV.Packages.SaveSystems.Editor
+  fullName: XIV.Packages.SaveSystems.Editor
+  nameWithType: XIV.Packages.SaveSystems.Editor
+- uid: XIV.Packages.SaveSystems.Editor.MenuItems
+  name: MenuItems
+  href: api/XIV.Packages.SaveSystems.Editor.MenuItems.html
+  commentId: T:XIV.Packages.SaveSystems.Editor.MenuItems
+  fullName: XIV.Packages.SaveSystems.Editor.MenuItems
+  nameWithType: MenuItems
+- uid: XIV.Packages.SaveSystems.ISavable
+  name: ISavable
+  href: api/XIV.Packages.SaveSystems.ISavable.html
+  commentId: T:XIV.Packages.SaveSystems.ISavable
+  fullName: XIV.Packages.SaveSystems.ISavable
+  nameWithType: ISavable
+- uid: XIV.Packages.SaveSystems.ISavable.GetSaveData
+  name: GetSaveData()
+  href: api/XIV.Packages.SaveSystems.ISavable.html#XIV_Packages_SaveSystems_ISavable_GetSaveData
+  commentId: M:XIV.Packages.SaveSystems.ISavable.GetSaveData
+  fullName: XIV.Packages.SaveSystems.ISavable.GetSaveData()
+  nameWithType: ISavable.GetSaveData()
+- uid: XIV.Packages.SaveSystems.ISavable.GetSaveData*
+  name: GetSaveData
+  href: api/XIV.Packages.SaveSystems.ISavable.html#XIV_Packages_SaveSystems_ISavable_GetSaveData_
+  commentId: Overload:XIV.Packages.SaveSystems.ISavable.GetSaveData
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.ISavable.GetSaveData
+  nameWithType: ISavable.GetSaveData
+- uid: XIV.Packages.SaveSystems.ISavable.LoadSaveData(System.Object)
+  name: LoadSaveData(object)
+  href: api/XIV.Packages.SaveSystems.ISavable.html#XIV_Packages_SaveSystems_ISavable_LoadSaveData_System_Object_
+  commentId: M:XIV.Packages.SaveSystems.ISavable.LoadSaveData(System.Object)
+  name.vb: LoadSaveData(Object)
+  fullName: XIV.Packages.SaveSystems.ISavable.LoadSaveData(object)
+  fullName.vb: XIV.Packages.SaveSystems.ISavable.LoadSaveData(Object)
+  nameWithType: ISavable.LoadSaveData(object)
+  nameWithType.vb: ISavable.LoadSaveData(Object)
+- uid: XIV.Packages.SaveSystems.ISavable.LoadSaveData*
+  name: LoadSaveData
+  href: api/XIV.Packages.SaveSystems.ISavable.html#XIV_Packages_SaveSystems_ISavable_LoadSaveData_
+  commentId: Overload:XIV.Packages.SaveSystems.ISavable.LoadSaveData
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.ISavable.LoadSaveData
+  nameWithType: ISavable.LoadSaveData
+- uid: XIV.Packages.SaveSystems.SavableEntity
+  name: SavableEntity
+  href: api/XIV.Packages.SaveSystems.SavableEntity.html
+  commentId: T:XIV.Packages.SaveSystems.SavableEntity
+  fullName: XIV.Packages.SaveSystems.SavableEntity
+  nameWithType: SavableEntity
+- uid: XIV.Packages.SaveSystems.SavableEntity.GetSaveData
+  name: GetSaveData()
+  href: api/XIV.Packages.SaveSystems.SavableEntity.html#XIV_Packages_SaveSystems_SavableEntity_GetSaveData
+  commentId: M:XIV.Packages.SaveSystems.SavableEntity.GetSaveData
+  fullName: XIV.Packages.SaveSystems.SavableEntity.GetSaveData()
+  nameWithType: SavableEntity.GetSaveData()
+- uid: XIV.Packages.SaveSystems.SavableEntity.GetSaveData*
+  name: GetSaveData
+  href: api/XIV.Packages.SaveSystems.SavableEntity.html#XIV_Packages_SaveSystems_SavableEntity_GetSaveData_
+  commentId: Overload:XIV.Packages.SaveSystems.SavableEntity.GetSaveData
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SavableEntity.GetSaveData
+  nameWithType: SavableEntity.GetSaveData
+- uid: XIV.Packages.SaveSystems.SavableEntity.LoadSaveData(System.Object)
+  name: LoadSaveData(object)
+  href: api/XIV.Packages.SaveSystems.SavableEntity.html#XIV_Packages_SaveSystems_SavableEntity_LoadSaveData_System_Object_
+  commentId: M:XIV.Packages.SaveSystems.SavableEntity.LoadSaveData(System.Object)
+  name.vb: LoadSaveData(Object)
+  fullName: XIV.Packages.SaveSystems.SavableEntity.LoadSaveData(object)
+  fullName.vb: XIV.Packages.SaveSystems.SavableEntity.LoadSaveData(Object)
+  nameWithType: SavableEntity.LoadSaveData(object)
+  nameWithType.vb: SavableEntity.LoadSaveData(Object)
+- uid: XIV.Packages.SaveSystems.SavableEntity.LoadSaveData*
+  name: LoadSaveData
+  href: api/XIV.Packages.SaveSystems.SavableEntity.html#XIV_Packages_SaveSystems_SavableEntity_LoadSaveData_
+  commentId: Overload:XIV.Packages.SaveSystems.SavableEntity.LoadSaveData
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SavableEntity.LoadSaveData
+  nameWithType: SavableEntity.LoadSaveData
+- uid: XIV.Packages.SaveSystems.SavableEntity.guid
+  name: guid
+  href: api/XIV.Packages.SaveSystems.SavableEntity.html#XIV_Packages_SaveSystems_SavableEntity_guid
+  commentId: F:XIV.Packages.SaveSystems.SavableEntity.guid
+  fullName: XIV.Packages.SaveSystems.SavableEntity.guid
+  nameWithType: SavableEntity.guid
+- uid: XIV.Packages.SaveSystems.SaveManager
+  name: SaveManager
+  href: api/XIV.Packages.SaveSystems.SaveManager.html
+  commentId: T:XIV.Packages.SaveSystems.SaveManager
+  fullName: XIV.Packages.SaveSystems.SaveManager
+  nameWithType: SaveManager
+- uid: XIV.Packages.SaveSystems.SaveManager.LoadAllOpenScenesImmediate
+  name: LoadAllOpenScenesImmediate()
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_LoadAllOpenScenesImmediate
+  commentId: M:XIV.Packages.SaveSystems.SaveManager.LoadAllOpenScenesImmediate
+  fullName: XIV.Packages.SaveSystems.SaveManager.LoadAllOpenScenesImmediate()
+  nameWithType: SaveManager.LoadAllOpenScenesImmediate()
+- uid: XIV.Packages.SaveSystems.SaveManager.LoadAllOpenScenesImmediate*
+  name: LoadAllOpenScenesImmediate
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_LoadAllOpenScenesImmediate_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveManager.LoadAllOpenScenesImmediate
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveManager.LoadAllOpenScenesImmediate
+  nameWithType: SaveManager.LoadAllOpenScenesImmediate
+- uid: XIV.Packages.SaveSystems.SaveManager.LoadSceneDataAsync(System.Int32,System.Action)
+  name: LoadSceneDataAsync(int, Action)
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_LoadSceneDataAsync_System_Int32_System_Action_
+  commentId: M:XIV.Packages.SaveSystems.SaveManager.LoadSceneDataAsync(System.Int32,System.Action)
+  name.vb: LoadSceneDataAsync(Integer, Action)
+  fullName: XIV.Packages.SaveSystems.SaveManager.LoadSceneDataAsync(int, System.Action)
+  fullName.vb: XIV.Packages.SaveSystems.SaveManager.LoadSceneDataAsync(Integer, System.Action)
+  nameWithType: SaveManager.LoadSceneDataAsync(int, Action)
+  nameWithType.vb: SaveManager.LoadSceneDataAsync(Integer, Action)
+- uid: XIV.Packages.SaveSystems.SaveManager.LoadSceneDataAsync*
+  name: LoadSceneDataAsync
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_LoadSceneDataAsync_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveManager.LoadSceneDataAsync
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveManager.LoadSceneDataAsync
+  nameWithType: SaveManager.LoadSceneDataAsync
+- uid: XIV.Packages.SaveSystems.SaveManager.SaveAllOpenScenesImmediate
+  name: SaveAllOpenScenesImmediate()
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_SaveAllOpenScenesImmediate
+  commentId: M:XIV.Packages.SaveSystems.SaveManager.SaveAllOpenScenesImmediate
+  fullName: XIV.Packages.SaveSystems.SaveManager.SaveAllOpenScenesImmediate()
+  nameWithType: SaveManager.SaveAllOpenScenesImmediate()
+- uid: XIV.Packages.SaveSystems.SaveManager.SaveAllOpenScenesImmediate*
+  name: SaveAllOpenScenesImmediate
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_SaveAllOpenScenesImmediate_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveManager.SaveAllOpenScenesImmediate
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveManager.SaveAllOpenScenesImmediate
+  nameWithType: SaveManager.SaveAllOpenScenesImmediate
+- uid: XIV.Packages.SaveSystems.SaveManager.SaveSceneDataAsync(System.Int32,System.Action)
+  name: SaveSceneDataAsync(int, Action)
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_SaveSceneDataAsync_System_Int32_System_Action_
+  commentId: M:XIV.Packages.SaveSystems.SaveManager.SaveSceneDataAsync(System.Int32,System.Action)
+  name.vb: SaveSceneDataAsync(Integer, Action)
+  fullName: XIV.Packages.SaveSystems.SaveManager.SaveSceneDataAsync(int, System.Action)
+  fullName.vb: XIV.Packages.SaveSystems.SaveManager.SaveSceneDataAsync(Integer, System.Action)
+  nameWithType: SaveManager.SaveSceneDataAsync(int, Action)
+  nameWithType.vb: SaveManager.SaveSceneDataAsync(Integer, Action)
+- uid: XIV.Packages.SaveSystems.SaveManager.SaveSceneDataAsync*
+  name: SaveSceneDataAsync
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_SaveSceneDataAsync_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveManager.SaveSceneDataAsync
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveManager.SaveSceneDataAsync
+  nameWithType: SaveManager.SaveSceneDataAsync
+- uid: XIV.Packages.SaveSystems.SaveManager.isLoading
+  name: isLoading
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_isLoading
+  commentId: P:XIV.Packages.SaveSystems.SaveManager.isLoading
+  fullName: XIV.Packages.SaveSystems.SaveManager.isLoading
+  nameWithType: SaveManager.isLoading
+- uid: XIV.Packages.SaveSystems.SaveManager.isLoading*
+  name: isLoading
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_isLoading_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveManager.isLoading
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveManager.isLoading
+  nameWithType: SaveManager.isLoading
+- uid: XIV.Packages.SaveSystems.SaveManager.isSaving
+  name: isSaving
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_isSaving
+  commentId: P:XIV.Packages.SaveSystems.SaveManager.isSaving
+  fullName: XIV.Packages.SaveSystems.SaveManager.isSaving
+  nameWithType: SaveManager.isSaving
+- uid: XIV.Packages.SaveSystems.SaveManager.isSaving*
+  name: isSaving
+  href: api/XIV.Packages.SaveSystems.SaveManager.html#XIV_Packages_SaveSystems_SaveManager_isSaving_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveManager.isSaving
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveManager.isSaving
+  nameWithType: SaveManager.isSaving
+- uid: XIV.Packages.SaveSystems.SaveSystem
+  name: SaveSystem
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html
+  commentId: T:XIV.Packages.SaveSystems.SaveSystem
+  fullName: XIV.Packages.SaveSystems.SaveSystem
+  nameWithType: SaveSystem
+- uid: XIV.Packages.SaveSystems.SaveSystem.AddSavableEntity(System.String,XIV.Packages.SaveSystems.SavableEntity)
+  name: AddSavableEntity(string, SavableEntity)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_AddSavableEntity_System_String_XIV_Packages_SaveSystems_SavableEntity_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.AddSavableEntity(System.String,XIV.Packages.SaveSystems.SavableEntity)
+  name.vb: AddSavableEntity(String, SavableEntity)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.AddSavableEntity(string, XIV.Packages.SaveSystems.SavableEntity)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.AddSavableEntity(String, XIV.Packages.SaveSystems.SavableEntity)
+  nameWithType: SaveSystem.AddSavableEntity(string, SavableEntity)
+  nameWithType.vb: SaveSystem.AddSavableEntity(String, SavableEntity)
+- uid: XIV.Packages.SaveSystems.SaveSystem.AddSavableEntity*
+  name: AddSavableEntity
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_AddSavableEntity_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.AddSavableEntity
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.AddSavableEntity
+  nameWithType: SaveSystem.AddSavableEntity
+- uid: XIV.Packages.SaveSystems.SaveSystem.ClearSaveData(System.String)
+  name: ClearSaveData(string)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_ClearSaveData_System_String_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.ClearSaveData(System.String)
+  name.vb: ClearSaveData(String)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.ClearSaveData(string)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.ClearSaveData(String)
+  nameWithType: SaveSystem.ClearSaveData(string)
+  nameWithType.vb: SaveSystem.ClearSaveData(String)
+- uid: XIV.Packages.SaveSystems.SaveSystem.ClearSaveData*
+  name: ClearSaveData
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_ClearSaveData_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.ClearSaveData
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.ClearSaveData
+  nameWithType: SaveSystem.ClearSaveData
+- uid: XIV.Packages.SaveSystems.SaveSystem.ClearSaveDataAll
+  name: ClearSaveDataAll()
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_ClearSaveDataAll
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.ClearSaveDataAll
+  fullName: XIV.Packages.SaveSystems.SaveSystem.ClearSaveDataAll()
+  nameWithType: SaveSystem.ClearSaveDataAll()
+- uid: XIV.Packages.SaveSystems.SaveSystem.ClearSaveDataAll*
+  name: ClearSaveDataAll
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_ClearSaveDataAll_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.ClearSaveDataAll
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.ClearSaveDataAll
+  nameWithType: SaveSystem.ClearSaveDataAll
+- uid: XIV.Packages.SaveSystems.SaveSystem.IsSaveExists(System.String)
+  name: IsSaveExists(string)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_IsSaveExists_System_String_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.IsSaveExists(System.String)
+  name.vb: IsSaveExists(String)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.IsSaveExists(string)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.IsSaveExists(String)
+  nameWithType: SaveSystem.IsSaveExists(string)
+  nameWithType.vb: SaveSystem.IsSaveExists(String)
+- uid: XIV.Packages.SaveSystems.SaveSystem.IsSaveExists*
+  name: IsSaveExists
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_IsSaveExists_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.IsSaveExists
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.IsSaveExists
+  nameWithType: SaveSystem.IsSaveExists
+- uid: XIV.Packages.SaveSystems.SaveSystem.IsSaveExistsAny
+  name: IsSaveExistsAny()
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_IsSaveExistsAny
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.IsSaveExistsAny
+  fullName: XIV.Packages.SaveSystems.SaveSystem.IsSaveExistsAny()
+  nameWithType: SaveSystem.IsSaveExistsAny()
+- uid: XIV.Packages.SaveSystems.SaveSystem.IsSaveExistsAny*
+  name: IsSaveExistsAny
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_IsSaveExistsAny_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.IsSaveExistsAny
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.IsSaveExistsAny
+  nameWithType: SaveSystem.IsSaveExistsAny
+- uid: XIV.Packages.SaveSystems.SaveSystem.Load(System.String)
+  name: Load(string)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_Load_System_String_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.Load(System.String)
+  name.vb: Load(String)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.Load(string)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.Load(String)
+  nameWithType: SaveSystem.Load(string)
+  nameWithType.vb: SaveSystem.Load(String)
+- uid: XIV.Packages.SaveSystems.SaveSystem.Load*
+  name: Load
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_Load_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.Load
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.Load
+  nameWithType: SaveSystem.Load
+- uid: XIV.Packages.SaveSystems.SaveSystem.LoadAsync(System.String)
+  name: LoadAsync(string)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_LoadAsync_System_String_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.LoadAsync(System.String)
+  name.vb: LoadAsync(String)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.LoadAsync(string)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.LoadAsync(String)
+  nameWithType: SaveSystem.LoadAsync(string)
+  nameWithType.vb: SaveSystem.LoadAsync(String)
+- uid: XIV.Packages.SaveSystems.SaveSystem.LoadAsync*
+  name: LoadAsync
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_LoadAsync_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.LoadAsync
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.LoadAsync
+  nameWithType: SaveSystem.LoadAsync
+- uid: XIV.Packages.SaveSystems.SaveSystem.RemoveSavableEntity(System.String,XIV.Packages.SaveSystems.SavableEntity)
+  name: RemoveSavableEntity(string, SavableEntity)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_RemoveSavableEntity_System_String_XIV_Packages_SaveSystems_SavableEntity_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.RemoveSavableEntity(System.String,XIV.Packages.SaveSystems.SavableEntity)
+  name.vb: RemoveSavableEntity(String, SavableEntity)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.RemoveSavableEntity(string, XIV.Packages.SaveSystems.SavableEntity)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.RemoveSavableEntity(String, XIV.Packages.SaveSystems.SavableEntity)
+  nameWithType: SaveSystem.RemoveSavableEntity(string, SavableEntity)
+  nameWithType.vb: SaveSystem.RemoveSavableEntity(String, SavableEntity)
+- uid: XIV.Packages.SaveSystems.SaveSystem.RemoveSavableEntity*
+  name: RemoveSavableEntity
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_RemoveSavableEntity_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.RemoveSavableEntity
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.RemoveSavableEntity
+  nameWithType: SaveSystem.RemoveSavableEntity
+- uid: XIV.Packages.SaveSystems.SaveSystem.Save(System.String)
+  name: Save(string)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_Save_System_String_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.Save(System.String)
+  name.vb: Save(String)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.Save(string)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.Save(String)
+  nameWithType: SaveSystem.Save(string)
+  nameWithType.vb: SaveSystem.Save(String)
+- uid: XIV.Packages.SaveSystems.SaveSystem.Save*
+  name: Save
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_Save_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.Save
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.Save
+  nameWithType: SaveSystem.Save
+- uid: XIV.Packages.SaveSystems.SaveSystem.SaveAsync(System.String)
+  name: SaveAsync(string)
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_SaveAsync_System_String_
+  commentId: M:XIV.Packages.SaveSystems.SaveSystem.SaveAsync(System.String)
+  name.vb: SaveAsync(String)
+  fullName: XIV.Packages.SaveSystems.SaveSystem.SaveAsync(string)
+  fullName.vb: XIV.Packages.SaveSystems.SaveSystem.SaveAsync(String)
+  nameWithType: SaveSystem.SaveAsync(string)
+  nameWithType.vb: SaveSystem.SaveAsync(String)
+- uid: XIV.Packages.SaveSystems.SaveSystem.SaveAsync*
+  name: SaveAsync
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_SaveAsync_
+  commentId: Overload:XIV.Packages.SaveSystems.SaveSystem.SaveAsync
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.SaveSystem.SaveAsync
+  nameWithType: SaveSystem.SaveAsync
+- uid: XIV.Packages.SaveSystems.SaveSystem.saveFolder
+  name: saveFolder
+  href: api/XIV.Packages.SaveSystems.SaveSystem.html#XIV_Packages_SaveSystems_SaveSystem_saveFolder
+  commentId: F:XIV.Packages.SaveSystems.SaveSystem.saveFolder
+  fullName: XIV.Packages.SaveSystems.SaveSystem.saveFolder
+  nameWithType: SaveSystem.saveFolder
+- uid: XIV.Packages.SaveSystems.Saver
+  name: Saver
+  href: api/XIV.Packages.SaveSystems.Saver.html
+  commentId: T:XIV.Packages.SaveSystems.Saver
+  fullName: XIV.Packages.SaveSystems.Saver
+  nameWithType: Saver
+- uid: XIV.Packages.SaveSystems.Saver.Load(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name: Load(string, string, SavableEntity[])
+  href: api/XIV.Packages.SaveSystems.Saver.html#XIV_Packages_SaveSystems_Saver_Load_System_String_System_String_XIV_Packages_SaveSystems_SavableEntity___
+  commentId: M:XIV.Packages.SaveSystems.Saver.Load(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name.vb: Load(String, String, SavableEntity())
+  fullName: XIV.Packages.SaveSystems.Saver.Load(string, string, XIV.Packages.SaveSystems.SavableEntity[])
+  fullName.vb: XIV.Packages.SaveSystems.Saver.Load(String, String, XIV.Packages.SaveSystems.SavableEntity())
+  nameWithType: Saver.Load(string, string, SavableEntity[])
+  nameWithType.vb: Saver.Load(String, String, SavableEntity())
+- uid: XIV.Packages.SaveSystems.Saver.Load*
+  name: Load
+  href: api/XIV.Packages.SaveSystems.Saver.html#XIV_Packages_SaveSystems_Saver_Load_
+  commentId: Overload:XIV.Packages.SaveSystems.Saver.Load
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.Saver.Load
+  nameWithType: Saver.Load
+- uid: XIV.Packages.SaveSystems.Saver.Save(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name: Save(string, string, SavableEntity[])
+  href: api/XIV.Packages.SaveSystems.Saver.html#XIV_Packages_SaveSystems_Saver_Save_System_String_System_String_XIV_Packages_SaveSystems_SavableEntity___
+  commentId: M:XIV.Packages.SaveSystems.Saver.Save(System.String,System.String,XIV.Packages.SaveSystems.SavableEntity[])
+  name.vb: Save(String, String, SavableEntity())
+  fullName: XIV.Packages.SaveSystems.Saver.Save(string, string, XIV.Packages.SaveSystems.SavableEntity[])
+  fullName.vb: XIV.Packages.SaveSystems.Saver.Save(String, String, XIV.Packages.SaveSystems.SavableEntity())
+  nameWithType: Saver.Save(string, string, SavableEntity[])
+  nameWithType.vb: Saver.Save(String, String, SavableEntity())
+- uid: XIV.Packages.SaveSystems.Saver.Save*
+  name: Save
+  href: api/XIV.Packages.SaveSystems.Saver.html#XIV_Packages_SaveSystems_Saver_Save_
+  commentId: Overload:XIV.Packages.SaveSystems.Saver.Save
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.Saver.Save
+  nameWithType: Saver.Save
+- uid: XIV.Packages.SaveSystems.XIVSerializer
+  name: XIVSerializer
+  href: api/XIV.Packages.SaveSystems.XIVSerializer.html
+  commentId: T:XIV.Packages.SaveSystems.XIVSerializer
+  fullName: XIV.Packages.SaveSystems.XIVSerializer
+  nameWithType: XIVSerializer
+- uid: XIV.Packages.SaveSystems.XIVSerializer.Deserialize(System.String)
+  name: Deserialize(string)
+  href: api/XIV.Packages.SaveSystems.XIVSerializer.html#XIV_Packages_SaveSystems_XIVSerializer_Deserialize_System_String_
+  commentId: M:XIV.Packages.SaveSystems.XIVSerializer.Deserialize(System.String)
+  name.vb: Deserialize(String)
+  fullName: XIV.Packages.SaveSystems.XIVSerializer.Deserialize(string)
+  fullName.vb: XIV.Packages.SaveSystems.XIVSerializer.Deserialize(String)
+  nameWithType: XIVSerializer.Deserialize(string)
+  nameWithType.vb: XIVSerializer.Deserialize(String)
+- uid: XIV.Packages.SaveSystems.XIVSerializer.Deserialize*
+  name: Deserialize
+  href: api/XIV.Packages.SaveSystems.XIVSerializer.html#XIV_Packages_SaveSystems_XIVSerializer_Deserialize_
+  commentId: Overload:XIV.Packages.SaveSystems.XIVSerializer.Deserialize
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.XIVSerializer.Deserialize
+  nameWithType: XIVSerializer.Deserialize
+- uid: XIV.Packages.SaveSystems.XIVSerializer.Deserialize``1(System.String)
+  name: Deserialize<T>(string)
+  href: api/XIV.Packages.SaveSystems.XIVSerializer.html#XIV_Packages_SaveSystems_XIVSerializer_Deserialize__1_System_String_
+  commentId: M:XIV.Packages.SaveSystems.XIVSerializer.Deserialize``1(System.String)
+  name.vb: Deserialize(Of T)(String)
+  fullName: XIV.Packages.SaveSystems.XIVSerializer.Deserialize<T>(string)
+  fullName.vb: XIV.Packages.SaveSystems.XIVSerializer.Deserialize(Of T)(String)
+  nameWithType: XIVSerializer.Deserialize<T>(string)
+  nameWithType.vb: XIVSerializer.Deserialize(Of T)(String)
+- uid: XIV.Packages.SaveSystems.XIVSerializer.Serialize(System.Object)
+  name: Serialize(object)
+  href: api/XIV.Packages.SaveSystems.XIVSerializer.html#XIV_Packages_SaveSystems_XIVSerializer_Serialize_System_Object_
+  commentId: M:XIV.Packages.SaveSystems.XIVSerializer.Serialize(System.Object)
+  name.vb: Serialize(Object)
+  fullName: XIV.Packages.SaveSystems.XIVSerializer.Serialize(object)
+  fullName.vb: XIV.Packages.SaveSystems.XIVSerializer.Serialize(Object)
+  nameWithType: XIVSerializer.Serialize(object)
+  nameWithType.vb: XIVSerializer.Serialize(Object)
+- uid: XIV.Packages.SaveSystems.XIVSerializer.Serialize*
+  name: Serialize
+  href: api/XIV.Packages.SaveSystems.XIVSerializer.html#XIV_Packages_SaveSystems_XIVSerializer_Serialize_
+  commentId: Overload:XIV.Packages.SaveSystems.XIVSerializer.Serialize
+  isSpec: "True"
+  fullName: XIV.Packages.SaveSystems.XIVSerializer.Serialize
+  nameWithType: XIVSerializer.Serialize
