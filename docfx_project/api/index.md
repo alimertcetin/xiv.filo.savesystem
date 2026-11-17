@@ -1,4 +1,4 @@
-# Package Name
-Welcome to the documentation of [package-name]
+# XIV Save System
+Welcome to the documentation of Save System
 
-[package-description]
+This package is developed to easily integrate a save system in Unity projects

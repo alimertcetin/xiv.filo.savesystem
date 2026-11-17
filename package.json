@@ -1,23 +1,34 @@
 {
-  "name": "xiv.filo.unitypackagetemplate",
+  "name": "xiv.filo.savesystem",
   "version": "0.0.0",
-  "displayName": "Package Display Name",
-  "description": "Package Description.",
+  "description": "Save System for Unity.",
+  "keywords": [
+    "XIV",
+    "Unity",
+    "Save",
+    "System"
+  ],
+  "homepage": "https://github.com/alimertcetin/xiv.filo.savesystem#readme",
+  "bugs": {
+    "url": "https://github.com/alimertcetin/xiv.filo.savesystem/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimertcetin/xiv.filo.savesystem.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "author": "Ali Mert Çetin (https://alimertcetin.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "displayName": "XIV Save System",
   "unity": "",
   "unityRelease": "",
   "documentationUrl": "",
   "changelogUrl": "",
-  "licensesUrl": "",
-  "dependencies": { },
-  "keywords": [
-    "XIV",
-    "Unity"
-  ],
-  "publishConfig": {
-    "access": "public"
-  },
-  "author": {
-    "name": "Ali Mert Çetin",
-    "url": "https://alimertcetin.github.io/"
-  }
+  "licensesUrl": ""
 }
